@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Just testing the commit changes feature as part of the hello-world tutorial.
+
+Peace
